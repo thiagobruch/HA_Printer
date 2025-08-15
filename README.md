@@ -1,5 +1,5 @@
 # HA_Printer
-Turn On and Off Printer based on cupsd queue
+Turn On and Off Printer with the are jobs in the queue (cupsd queue)
 
 ## ** This is based on the instructions from [Unixorn](https://unixorn.github.io/post/home-assistant-printer-power-management/)
 
